@@ -1,0 +1,185 @@
+.violet{
+    background-color: #590f2f;
+}
+
+.head-color{
+  background-color: #2b1241;
+}
+
+.text-white{
+  color: #f4f2f3;
+}
+
+.pink{
+    background-color: #eec1d6;
+}
+
+.pink2{
+    background-color: #ffdfee;
+}
+
+.indent{
+    text-indent: 1.5cm;
+}
+
+.bg-gradient{
+  background: linear-gradient(to bottom, #dacde7, #f9c1d8, #ffd5d7);
+
+}
+
+.head{
+  background: #e7c3d3;
+}
+
+/* section{
+    border: 5px solid rgb(0, 0, 0)
+}
+
+div{
+    border: 5px solid rgb(0, 0, 0)
+} */
+
+.column-bg {
+    background-color: #e5dff0;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    padding: 20px;
+  }
+
+.bg{
+    background-color: #1a1530;
+}
+
+
+
+h1{
+  font-weight: bold;
+}
+
+h2{
+  font-weight: bold;
+  color: #482169;
+}
+
+h3{
+  font-weight: bold;
+  color: #590f2f;
+}
+
+h4{
+  font-weight: bold;
+  color: #590f2f;
+}
+
+h5{
+  font-weight: bold;
+  color: #590f2f;
+}
+
+
+.mali-semibold-italic {
+  font-family: "Mali", cursive;
+  font-weight: 600;
+  font-style: italic;
+
+}
+
+.mali-medium {
+  font-family: "Mali", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.noto-sans-thai{
+  font-family: "Noto Sans Thai", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.column-text-color{
+font-weight: bold;
+  color: #482169
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
