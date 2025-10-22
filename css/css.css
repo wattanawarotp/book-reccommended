@@ -10,6 +10,10 @@
   color: #f4f2f3;
 }
 
+.hamburger-icon {
+  background-color: #fff; /* สีของขีดเมนู */
+}
+
 .pink{
     background-color: #eec1d6;
 }
@@ -53,11 +57,13 @@ div{
 
 h1{
   font-weight: bold;
+
 }
 
 h2{
   font-weight: bold;
   color: #482169;
+  font-size: 36px;
 }
 
 h3{
